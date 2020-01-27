@@ -1,0 +1,14 @@
+C:\Projetos\DbServer\contaCorrente\bin\Debug\netcoreapp2.2\contaCorrente.deps.json
+C:\Projetos\DbServer\contaCorrente\bin\Debug\netcoreapp2.2\contaCorrente.runtimeconfig.json
+C:\Projetos\DbServer\contaCorrente\bin\Debug\netcoreapp2.2\contaCorrente.runtimeconfig.dev.json
+c:\Projetos\DbServer\contaCorrente\bin\Debug\netcoreapp2.2\contaCorrente.dll
+c:\Projetos\DbServer\contaCorrente\bin\Debug\netcoreapp2.2\contaCorrente.pdb
+c:\Projetos\DbServer\contaCorrente\obj\Debug\netcoreapp2.2\contaCorrente.csprojAssemblyReference.cache
+c:\Projetos\DbServer\contaCorrente\obj\Debug\netcoreapp2.2\contaCorrente.csproj.CoreCompileInputs.cache
+c:\Projetos\DbServer\contaCorrente\obj\Debug\netcoreapp2.2\contaCorrente.RazorAssemblyInfo.cache
+c:\Projetos\DbServer\contaCorrente\obj\Debug\netcoreapp2.2\contaCorrente.RazorAssemblyInfo.cs
+c:\Projetos\DbServer\contaCorrente\obj\Debug\netcoreapp2.2\contaCorrente.AssemblyInfoInputs.cache
+c:\Projetos\DbServer\contaCorrente\obj\Debug\netcoreapp2.2\contaCorrente.AssemblyInfo.cs
+c:\Projetos\DbServer\contaCorrente\obj\Debug\netcoreapp2.2\contaCorrente.RazorTargetAssemblyInfo.cache
+c:\Projetos\DbServer\contaCorrente\obj\Debug\netcoreapp2.2\contaCorrente.dll
+c:\Projetos\DbServer\contaCorrente\obj\Debug\netcoreapp2.2\contaCorrente.pdb
